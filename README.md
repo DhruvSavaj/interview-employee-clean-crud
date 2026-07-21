@@ -68,6 +68,3 @@ The solution is split into layered projects: API, Application, Infrastructure an
 ## Contributing
 - Follow the existing layered architecture: controllers → services → repositories.
 - Keep SQL parameterized (see `EmployeeRepository`) to avoid SQL injection.
-
-## License
-- Add your chosen license file (`LICENSE`) at repository root.
